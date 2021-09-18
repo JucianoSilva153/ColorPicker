@@ -1,0 +1,16 @@
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto ColorPicker\Projecto ColorPicker\bin\Debug\Projecto ColorPicker.exe.config
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto ColorPicker\Projecto ColorPicker\bin\Debug\Projecto ColorPicker.exe
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto ColorPicker\Projecto ColorPicker\bin\Debug\Projecto ColorPicker.pdb
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto ColorPicker\Projecto ColorPicker\obj\Debug\Projecto ColorPicker.csprojResolveAssemblyReference.cache
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto ColorPicker\Projecto ColorPicker\obj\Debug\Projecto_ColorPicker.EscolhaTemaVista.resources
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto ColorPicker\Projecto ColorPicker\obj\Debug\Projecto_ColorPicker.main.resources
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto ColorPicker\Projecto ColorPicker\obj\Debug\Projecto_ColorPicker.Properties.Resources.resources
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto ColorPicker\Projecto ColorPicker\obj\Debug\Projecto ColorPicker.csproj.GenerateResource.Cache
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto ColorPicker\Projecto ColorPicker\obj\Debug\Projecto ColorPicker.exe
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto ColorPicker\Projecto ColorPicker\obj\Debug\Projecto ColorPicker.pdb
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto ColorPicker\Projecto ColorPicker\bin\Debug\Guna.UI.dll
+c:\users\juciano silva\documents\visual studio 2015\Projects\Projecto ColorPicker\Projecto ColorPicker\bin\Debug\XanderUI.dll
+C:\Users\Juciano Silva\Documents\Visual Studio 2015\Projects\Projecto ColorPicker\Projecto ColorPicker\obj\Debug\Projecto_ColorPicker.PropsTema.resources
+C:\Users\Juciano Silva\Documents\Visual Studio 2015\Projects\Projecto ColorPicker\Projecto ColorPicker\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Juciano Silva\Documents\Visual Studio 2015\Projects\Projecto ColorPicker\Projecto ColorPicker\obj\Debug\Projecto_ColorPicker.PersonalizarCor.resources
+C:\Users\Juciano Silva\Documents\Visual Studio 2015\Projects\Projecto ColorPicker\Projecto ColorPicker\obj\Debug\Projecto_ColorPicker.TemasPersonalizados.resources
